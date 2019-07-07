@@ -1,0 +1,14 @@
+C:\Users\Thomas\source\repos\AssetManagement\AssetManagement\bin\Debug\netcoreapp2.2\AssetManagement.deps.json
+C:\Users\Thomas\source\repos\AssetManagement\AssetManagement\bin\Debug\netcoreapp2.2\AssetManagement.runtimeconfig.json
+C:\Users\Thomas\source\repos\AssetManagement\AssetManagement\bin\Debug\netcoreapp2.2\AssetManagement.runtimeconfig.dev.json
+C:\Users\Thomas\source\repos\AssetManagement\AssetManagement\bin\Debug\netcoreapp2.2\AssetManagement.dll
+C:\Users\Thomas\source\repos\AssetManagement\AssetManagement\bin\Debug\netcoreapp2.2\AssetManagement.pdb
+C:\Users\Thomas\source\repos\AssetManagement\AssetManagement\obj\Debug\netcoreapp2.2\AssetManagement.csprojAssemblyReference.cache
+C:\Users\Thomas\source\repos\AssetManagement\AssetManagement\obj\Debug\netcoreapp2.2\AssetManagement.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\AssetManagement\AssetManagement\obj\Debug\netcoreapp2.2\AssetManagement.RazorAssemblyInfo.cache
+C:\Users\Thomas\source\repos\AssetManagement\AssetManagement\obj\Debug\netcoreapp2.2\AssetManagement.RazorAssemblyInfo.cs
+C:\Users\Thomas\source\repos\AssetManagement\AssetManagement\obj\Debug\netcoreapp2.2\AssetManagement.AssemblyInfoInputs.cache
+C:\Users\Thomas\source\repos\AssetManagement\AssetManagement\obj\Debug\netcoreapp2.2\AssetManagement.AssemblyInfo.cs
+C:\Users\Thomas\source\repos\AssetManagement\AssetManagement\obj\Debug\netcoreapp2.2\AssetManagement.RazorTargetAssemblyInfo.cache
+C:\Users\Thomas\source\repos\AssetManagement\AssetManagement\obj\Debug\netcoreapp2.2\AssetManagement.dll
+C:\Users\Thomas\source\repos\AssetManagement\AssetManagement\obj\Debug\netcoreapp2.2\AssetManagement.pdb
